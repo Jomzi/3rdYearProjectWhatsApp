@@ -1,0 +1,25 @@
+﻿<Window x:Class="ChattingClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChattingClient"
+        mc:Ignorable="d"
+        Title="Whatsapp Messenger" Height="413.7" Width="323" Closing="Window_Closing">
+    <Grid Margin="0,0,0,-3" HorizontalAlignment="Left" Width="315" Background="#FFE6E6E6">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="184*"/>
+            <ColumnDefinition Width="333*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="UserNameTextBox" HorizontalAlignment="Left" Height="26" Margin="45,57,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="107" RenderTransformOrigin="0.455,-0.826" Grid.Column="1"/>
+        <Button x:Name="LoginButton" Content="Login" Margin="152,57,10,0" VerticalAlignment="Top" Click="LoginButton_Click" Grid.Column="1" FontFamily="Microsoft NeoGothic" Height="26" FontSize="14"/>
+        <TextBox x:Name="ChatDisplayTextBox" Margin="10,112,123,49" RenderTransformOrigin="0.18,0.05"  Grid.ColumnSpan="2"/>
+        <TextBox x:Name="ChatTextBox" Height="23" Margin="10,0,123,10" TextWrapping="Wrap" VerticalAlignment="Bottom" Grid.ColumnSpan="2" />
+        <Button x:Name="SendButton" Content="Send" Margin="0,0,22,10" VerticalAlignment="Bottom" RenderTransformOrigin="2.813,0.601" HorizontalAlignment="Right" Width="86" IsDefault="True" Click="SendButton_Click" Grid.Column="1" FontFamily="Microsoft NeoGothic" Height="23" FontSize="14"/>
+        <Label x:Name="WelcomeUserLbl" Content="" HorizontalAlignment="Right" Margin="0,57,163,0" VerticalAlignment="Top" Width="152" FontWeight="Bold" Grid.ColumnSpan="2"/>
+        <ListBox x:Name="OnlineUserListBox" Margin="0,139,22,49" Grid.Column="1" HorizontalAlignment="Right" Width="86" />
+        <Label x:Name="label" Content="Online:" HorizontalAlignment="Right" Margin="0,112,22,0" VerticalAlignment="Top" Width="86" Grid.Column="1" FontFamily="Microsoft NeoGothic" Height="27" FontSize="14" RenderTransformOrigin="0.663,0.556"/>
+        <Label x:Name="label1" Grid.ColumnSpan="2" Content="WhatsApp" HorizontalAlignment="Left" Height="49" VerticalAlignment="Top" Width="315" Background="#FF3B8134" FontSize="20" FontWeight="Bold" Foreground="White" TextOptions.TextHintingMode="Fixed" FontFamily="Microsoft NeoGothic"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,8 @@
+c:\users\jomziii\documents\visual studio 2015\Projects\ChattingApplication\ChattingServer\bin\Debug\ChattingServer.exe.config
+c:\users\jomziii\documents\visual studio 2015\Projects\ChattingApplication\ChattingServer\bin\Debug\ChattingServer.exe
+c:\users\jomziii\documents\visual studio 2015\Projects\ChattingApplication\ChattingServer\bin\Debug\ChattingServer.pdb
+c:\users\jomziii\documents\visual studio 2015\Projects\ChattingApplication\ChattingServer\bin\Debug\ChattingInterfaces.dll
+c:\users\jomziii\documents\visual studio 2015\Projects\ChattingApplication\ChattingServer\bin\Debug\ChattingInterfaces.pdb
+c:\users\jomziii\documents\visual studio 2015\Projects\ChattingApplication\ChattingServer\obj\Debug\ChattingServer.csprojResolveAssemblyReference.cache
+c:\users\jomziii\documents\visual studio 2015\Projects\ChattingApplication\ChattingServer\obj\Debug\ChattingServer.exe
+c:\users\jomziii\documents\visual studio 2015\Projects\ChattingApplication\ChattingServer\obj\Debug\ChattingServer.pdb

@@ -1,0 +1,4 @@
+c:\users\jomziii\documents\visual studio 2015\Projects\ChattingApplication\ChattingInterfaces\bin\Debug\ChattingInterfaces.dll
+c:\users\jomziii\documents\visual studio 2015\Projects\ChattingApplication\ChattingInterfaces\bin\Debug\ChattingInterfaces.pdb
+c:\users\jomziii\documents\visual studio 2015\Projects\ChattingApplication\ChattingInterfaces\obj\Debug\ChattingInterfaces.dll
+c:\users\jomziii\documents\visual studio 2015\Projects\ChattingApplication\ChattingInterfaces\obj\Debug\ChattingInterfaces.pdb

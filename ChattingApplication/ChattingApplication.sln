@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChattingClient", "ChattingClient\ChattingClient.csproj", "{9207E619-F1C9-44C3-AC1D-5B84A62AB496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChattingServer", "ChattingServer\ChattingServer.csproj", "{FBA2F3FB-C1C2-46CB-951C-D0F7FF21D3A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChattingInterfaces", "ChattingInterfaces\ChattingInterfaces.csproj", "{9732BF89-C61A-4371-825A-C4EF605164E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9207E619-F1C9-44C3-AC1D-5B84A62AB496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9207E619-F1C9-44C3-AC1D-5B84A62AB496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9207E619-F1C9-44C3-AC1D-5B84A62AB496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9207E619-F1C9-44C3-AC1D-5B84A62AB496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA2F3FB-C1C2-46CB-951C-D0F7FF21D3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA2F3FB-C1C2-46CB-951C-D0F7FF21D3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA2F3FB-C1C2-46CB-951C-D0F7FF21D3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA2F3FB-C1C2-46CB-951C-D0F7FF21D3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9732BF89-C61A-4371-825A-C4EF605164E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9732BF89-C61A-4371-825A-C4EF605164E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9732BF89-C61A-4371-825A-C4EF605164E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9732BF89-C61A-4371-825A-C4EF605164E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
